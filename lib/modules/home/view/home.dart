@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Alphonso Assignment',
+          'Alphanso Assignment',
         ),
       ),
       body: BlocBuilder<HomeController, HomeState>(
